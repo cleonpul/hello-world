@@ -1,1 +1,7 @@
 node_modules/
+#Ignore Z
+z
+#Ignore .env
+.env
+#ignore artifacts
+artifacts
