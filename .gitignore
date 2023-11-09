@@ -1,7 +1,7 @@
 node_modules/
 #Ignore Z
-z
+z .gitignore
 #Ignore .env
-.env
+.env .gitignore
 #ignore artifacts
-artifacts
+artifacts .gitignore
